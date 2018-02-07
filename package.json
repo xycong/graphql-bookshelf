@@ -1,0 +1,9 @@
+{
+  "name": "graphql-bookshelf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xycong/graphql-bookshelf.git",
+  "author": "Victor Cong <xycong@uwaterloo.ca>",
+  "license": "MIT",
+  "dependencies": {}
+}
